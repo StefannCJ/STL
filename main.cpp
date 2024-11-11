@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    ifstream inFile("input3.txt");
+    ifstream inFile("input2.txt");
     int no_problems, no_doctors;
     string name, speciality;
 
